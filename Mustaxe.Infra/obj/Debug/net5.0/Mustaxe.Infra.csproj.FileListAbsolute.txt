@@ -1,0 +1,12 @@
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Infra\bin\Debug\net5.0\Mustaxe.Infra.deps.json
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Infra\bin\Debug\net5.0\Mustaxe.Infra.dll
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Infra\bin\Debug\net5.0\ref\Mustaxe.Infra.dll
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Infra\bin\Debug\net5.0\Mustaxe.Infra.pdb
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Infra\obj\Debug\net5.0\Mustaxe.Infra.csproj.AssemblyReference.cache
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Infra\obj\Debug\net5.0\Mustaxe.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Infra\obj\Debug\net5.0\Mustaxe.Infra.AssemblyInfoInputs.cache
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Infra\obj\Debug\net5.0\Mustaxe.Infra.AssemblyInfo.cs
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Infra\obj\Debug\net5.0\Mustaxe.Infra.csproj.CoreCompileInputs.cache
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Infra\obj\Debug\net5.0\Mustaxe.Infra.dll
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Infra\obj\Debug\net5.0\ref\Mustaxe.Infra.dll
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Infra\obj\Debug\net5.0\Mustaxe.Infra.pdb

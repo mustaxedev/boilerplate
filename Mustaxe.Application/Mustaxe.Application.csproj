@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.0" />
+    <PackageReference Include="FluentValidation" Version="10.3.6" />
+    <PackageReference Include="MediatR" Version="10.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mustaxe.Domain\Mustaxe.Domain.csproj" />
+    <ProjectReference Include="..\Mustaxe.Infra\Mustaxe.Infra.csproj" />
+    <ProjectReference Include="..\Mustaxe.Integration\Mustaxe.Integration.csproj" />
+    <ProjectReference Include="..\Mustaxe.Persistence\Mustaxe.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

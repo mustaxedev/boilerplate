@@ -1,0 +1,15 @@
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.MessageConsumer\bin\Debug\net5.0\Mustaxe.MessageConsumer.deps.json
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.MessageConsumer\bin\Debug\net5.0\Mustaxe.MessageConsumer.dll
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.MessageConsumer\bin\Debug\net5.0\ref\Mustaxe.MessageConsumer.dll
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.MessageConsumer\bin\Debug\net5.0\Mustaxe.MessageConsumer.pdb
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.MessageConsumer\bin\Debug\net5.0\Mustaxe.Infra.dll
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.MessageConsumer\bin\Debug\net5.0\Mustaxe.Infra.pdb
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.MessageConsumer\obj\Debug\net5.0\Mustaxe.MessageConsumer.csproj.AssemblyReference.cache
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.MessageConsumer\obj\Debug\net5.0\Mustaxe.MessageConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.MessageConsumer\obj\Debug\net5.0\Mustaxe.MessageConsumer.AssemblyInfoInputs.cache
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.MessageConsumer\obj\Debug\net5.0\Mustaxe.MessageConsumer.AssemblyInfo.cs
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.MessageConsumer\obj\Debug\net5.0\Mustaxe.MessageConsumer.csproj.CoreCompileInputs.cache
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.MessageConsumer\obj\Debug\net5.0\Mustaxe.MessageConsumer.csproj.CopyComplete
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.MessageConsumer\obj\Debug\net5.0\Mustaxe.MessageConsumer.dll
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.MessageConsumer\obj\Debug\net5.0\ref\Mustaxe.MessageConsumer.dll
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.MessageConsumer\obj\Debug\net5.0\Mustaxe.MessageConsumer.pdb

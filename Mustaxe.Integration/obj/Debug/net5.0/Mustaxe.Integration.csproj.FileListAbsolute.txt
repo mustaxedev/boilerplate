@@ -1,0 +1,12 @@
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Integration\bin\Debug\net5.0\Mustaxe.Integration.deps.json
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Integration\bin\Debug\net5.0\Mustaxe.Integration.dll
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Integration\bin\Debug\net5.0\ref\Mustaxe.Integration.dll
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Integration\bin\Debug\net5.0\Mustaxe.Integration.pdb
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Integration\obj\Debug\net5.0\Mustaxe.Integration.csproj.AssemblyReference.cache
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Integration\obj\Debug\net5.0\Mustaxe.Integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Integration\obj\Debug\net5.0\Mustaxe.Integration.AssemblyInfoInputs.cache
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Integration\obj\Debug\net5.0\Mustaxe.Integration.AssemblyInfo.cs
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Integration\obj\Debug\net5.0\Mustaxe.Integration.csproj.CoreCompileInputs.cache
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Integration\obj\Debug\net5.0\Mustaxe.Integration.dll
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Integration\obj\Debug\net5.0\ref\Mustaxe.Integration.dll
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Integration\obj\Debug\net5.0\Mustaxe.Integration.pdb

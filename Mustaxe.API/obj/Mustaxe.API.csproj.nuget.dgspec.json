@@ -1,0 +1,550 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.API\\Mustaxe.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.API\\Mustaxe.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.API\\Mustaxe.API.csproj",
+        "projectName": "Mustaxe.API",
+        "projectPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.API\\Mustaxe.API.csproj",
+        "packagesPath": "C:\\Users\\ACT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ACT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Application\\Mustaxe.Application.csproj": {
+                "projectPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Application\\Mustaxe.Application.csproj"
+              },
+              "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Infra\\Mustaxe.Infra.csproj": {
+                "projectPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Infra\\Mustaxe.Infra.csproj"
+              },
+              "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Integration\\Mustaxe.Integration.csproj": {
+                "projectPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Integration\\Mustaxe.Integration.csproj"
+              },
+              "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.MessageConsumer\\Mustaxe.MessageConsumer.csproj": {
+                "projectPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.MessageConsumer\\Mustaxe.MessageConsumer.csproj"
+              },
+              "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Persistence\\Mustaxe.Persistence.csproj": {
+                "projectPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Persistence\\Mustaxe.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Serilog.Sinks.Elasticsearch": {
+              "target": "Package",
+              "version": "[8.4.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Application\\Mustaxe.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Application\\Mustaxe.Application.csproj",
+        "projectName": "Mustaxe.Application",
+        "projectPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Application\\Mustaxe.Application.csproj",
+        "packagesPath": "C:\\Users\\ACT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ACT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Domain\\Mustaxe.Domain.csproj": {
+                "projectPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Domain\\Mustaxe.Domain.csproj"
+              },
+              "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Infra\\Mustaxe.Infra.csproj": {
+                "projectPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Infra\\Mustaxe.Infra.csproj"
+              },
+              "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Integration\\Mustaxe.Integration.csproj": {
+                "projectPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Integration\\Mustaxe.Integration.csproj"
+              },
+              "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Persistence\\Mustaxe.Persistence.csproj": {
+                "projectPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Persistence\\Mustaxe.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Domain\\Mustaxe.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Domain\\Mustaxe.Domain.csproj",
+        "projectName": "Mustaxe.Domain",
+        "projectPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Domain\\Mustaxe.Domain.csproj",
+        "packagesPath": "C:\\Users\\ACT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ACT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Infra\\Mustaxe.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Infra\\Mustaxe.Infra.csproj",
+        "projectName": "Mustaxe.Infra",
+        "projectPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Infra\\Mustaxe.Infra.csproj",
+        "packagesPath": "C:\\Users\\ACT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ACT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Integration\\Mustaxe.Integration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Integration\\Mustaxe.Integration.csproj",
+        "projectName": "Mustaxe.Integration",
+        "projectPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Integration\\Mustaxe.Integration.csproj",
+        "packagesPath": "C:\\Users\\ACT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Integration\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ACT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Polly.Extensions.Http": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Refit.HttpClientFactory": {
+              "target": "Package",
+              "version": "[6.1.15, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.MessageConsumer\\Mustaxe.MessageConsumer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.MessageConsumer\\Mustaxe.MessageConsumer.csproj",
+        "projectName": "Mustaxe.MessageConsumer",
+        "projectPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.MessageConsumer\\Mustaxe.MessageConsumer.csproj",
+        "packagesPath": "C:\\Users\\ACT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.MessageConsumer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ACT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Infra\\Mustaxe.Infra.csproj": {
+                "projectPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Infra\\Mustaxe.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Persistence\\Mustaxe.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Persistence\\Mustaxe.Persistence.csproj",
+        "projectName": "Mustaxe.Persistence",
+        "projectPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Persistence\\Mustaxe.Persistence.csproj",
+        "packagesPath": "C:\\Users\\ACT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ACT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Domain\\Mustaxe.Domain.csproj": {
+                "projectPath": "C:\\Users\\ACT\\source\\repos\\Mustaxe\\Mustaxe.Domain\\Mustaxe.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

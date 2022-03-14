@@ -1,0 +1,12 @@
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Domain\bin\Debug\net5.0\Mustaxe.Domain.deps.json
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Domain\bin\Debug\net5.0\Mustaxe.Domain.dll
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Domain\bin\Debug\net5.0\ref\Mustaxe.Domain.dll
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Domain\bin\Debug\net5.0\Mustaxe.Domain.pdb
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Domain\obj\Debug\net5.0\Mustaxe.Domain.csproj.AssemblyReference.cache
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Domain\obj\Debug\net5.0\Mustaxe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Domain\obj\Debug\net5.0\Mustaxe.Domain.AssemblyInfoInputs.cache
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Domain\obj\Debug\net5.0\Mustaxe.Domain.AssemblyInfo.cs
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Domain\obj\Debug\net5.0\Mustaxe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Domain\obj\Debug\net5.0\Mustaxe.Domain.dll
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Domain\obj\Debug\net5.0\ref\Mustaxe.Domain.dll
+C:\Users\ACT\source\repos\Mustaxe\Mustaxe.Domain\obj\Debug\net5.0\Mustaxe.Domain.pdb

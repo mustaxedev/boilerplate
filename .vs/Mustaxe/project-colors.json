@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8b8b7e38-e4f8-4082-ba90-713565c0bc93": {
+      "ProjectGuid": "8b8b7e38-e4f8-4082-ba90-713565c0bc93",
+      "DisplayName": "Mustaxe.API",
+      "ColorIndex": 0
+    },
+    "542b0f93-4abf-4bce-8a87-03dd6edfc7f5": {
+      "ProjectGuid": "542b0f93-4abf-4bce-8a87-03dd6edfc7f5",
+      "DisplayName": "Mustaxe.Tests",
+      "ColorIndex": 1
+    },
+    "99c5ed02-a448-4dc8-bca9-d5780dac567f": {
+      "ProjectGuid": "99c5ed02-a448-4dc8-bca9-d5780dac567f",
+      "DisplayName": "Mustaxe.Domain",
+      "ColorIndex": 2
+    },
+    "21dd2516-cb65-44a0-853f-d636a03e0e67": {
+      "ProjectGuid": "21dd2516-cb65-44a0-853f-d636a03e0e67",
+      "DisplayName": "Mustaxe.Application",
+      "ColorIndex": 3
+    },
+    "a525ed56-7df3-467d-941e-8c3e475a19d2": {
+      "ProjectGuid": "a525ed56-7df3-467d-941e-8c3e475a19d2",
+      "DisplayName": "Mustaxe.Integration",
+      "ColorIndex": 4
+    },
+    "757db7d4-3e07-406d-8248-b6c3f6d0449f": {
+      "ProjectGuid": "757db7d4-3e07-406d-8248-b6c3f6d0449f",
+      "DisplayName": "Mustaxe.Infra",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
